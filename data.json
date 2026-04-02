@@ -1,5 +1,17 @@
 [
   {
+    "name": "CO2 Monitor Netherlands",
+    "description": "National Energy Dashboard for the Netherlands providing hourly electricity production by source, gas consumption, and CO₂ emission intensity data from 2021 onward, jointly developed by Gasunie, TenneT, and partners.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["fossil", "grid", "nuclear", "solar", "wind"],
+    "format": ["api", "json"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://co2monitor.nl/energiebronnen",
+      "api": "https://nedapi.ned.nl"
+    }
+  },
+  {
     "name": "Common European Energy Data Space (CEEDS)",
     "description": "EU initiative building a federated cross-border energy data space across Europe, coordinated through Horizon Europe projects (Enershare, Omega-X, EDDIE, DATA CELLAR, SYNERGIES) with pilots covering distributed energy resources, flexibility services, and smart EV charging in 10+ member states.",
     "data_type": ["metadata"],
