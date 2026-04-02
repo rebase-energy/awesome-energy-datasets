@@ -158,6 +158,18 @@
     }
   },
   {
+    "name": "HEDGE (Home Electricity Data Generator)",
+    "description": "Open-access Python tool using generative adversarial networks (GANs) to synthesise realistic daily profiles of residential photovoltaic generation, household electricity demand, and electric vehicle consumption and availability, trained on UK historical datasets including the National Travel Survey, Customer-Led Network Revolution smart meter data, and Sheffield Solar PV records, outputting per-home half-hourly arrays suitable for training machine-learning models of distributed energy resources.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["demand", "solar", "transport"],
+    "format": ["csv"],
+    "coverage": ["country"],
+    "links": {
+      "code": "https://github.com/floracharbo/hedge",
+      "paper": "https://doi.org/10.1016/j.mex.2024.102604"
+    }
+  },
+  {
     "name": "Helen Open Data (Finland)",
     "description": "Hourly district heating power production data for Helsinki from 2015 to 2024, published by Helen Oy as downloadable CSV, with additional electricity, district cooling, and solar production data accessible via APIs on the Helen partner platform.",
     "data_type": ["timeseries"],
