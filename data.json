@@ -60,6 +60,19 @@
     }
   },
   {
+    "name": "EnergyData.dk (Denmark)",
+    "description": "Danish energy data hub operated by DTU providing real-time and historical datasets including smart meter electricity consumption, district heating supply, transformer station power measurements, building automation data, city battery operations, EV charging station data, weather station observations and forecasts, and CO₂ emissions from Danish electricity production, primarily covering Copenhagen's Nordhavn district and Bornholm island.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["battery", "building", "demand", "grid", "transport", "weather"],
+    "format": ["api", "csv", "json"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://energydata.dk/en/",
+      "api": "https://admin.energydata.dk/api/v1",
+      "docs": "https://energydata.dk/en/dokumentation/api-documentation/"
+    }
+  },
+  {
     "name": "Helen Open Data (Finland)",
     "description": "Hourly district heating power production data for Helsinki from 2015 to 2024, published by Helen Oy as downloadable CSV, with additional electricity, district cooling, and solar production data accessible via APIs on the Helen partner platform.",
     "data_type": ["timeseries"],
