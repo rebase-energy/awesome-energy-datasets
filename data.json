@@ -271,6 +271,17 @@
     }
   },
   {
+    "name": "Swiss Electricity Prices (ElCom)",
+    "description": "Official electricity tariff database from Switzerland's Federal Electricity Commission (ElCom) providing detailed price breakdowns for all ~2,200 Swiss municipalities, including energy costs, grid usage fees, municipal and cantonal levies, and the federal renewable energy surcharge, for different consumer categories (households and commercial) from 2009 onward.",
+    "data_type": ["tabular"],
+    "energy_sector": ["price"],
+    "format": ["api", "excel"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://www.prix-electricite.elcom.admin.ch/"
+    }
+  },
+  {
     "name": "UKPVGeo",
     "description": "Crowdsourced geographic dataset of over 260,000 solar PV installations across the UK, covering approximately 86% of installed capacity (10.66 GW mapped, 13.93 GW inferred), with location coordinates and capacity metadata for both domestic rooftop and utility-scale solar farms.",
     "data_type": ["geospatial", "metadata"],
