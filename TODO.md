@@ -93,7 +93,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Power Station Dictionary (OSUKED)** — https://github.com/OSUKED/Power-Station-Dictionary and https://osuked.github.io/Power-Station-Dictionary/index.html
 
-- [ ] **Global Energy Monitor** — https://globalenergymonitor.org/
+- [x] **Global Energy Monitor** — https://globalenergymonitor.org/
 
 ### Building & demand datasets
 
