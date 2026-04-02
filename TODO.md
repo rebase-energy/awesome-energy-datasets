@@ -157,7 +157,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **COPED (Coventry Open Platform for Energy Data)** — https://coped.coventry.ac.uk/ and https://github.com/cogent-computing/COPED
 
-- [ ] **PG&E Distribution Resource Planning Data** — https://www.pge.com/en_US/for-our-business-partners/distribution-resource-planning/distribution-resource-planning-data-portal.page
+- [x] **PG&E Distribution Resource Planning Data** — https://www.pge.com/en_US/for-our-business-partners/distribution-resource-planning/distribution-resource-planning-data-portal.page
 
 - [x] **CO2 Monitor Netherlands** — https://co2monitor.nl/energiebronnen
 
