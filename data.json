@@ -24,6 +24,18 @@
     }
   },
   {
+    "name": "Ember Open Data",
+    "description": "Global yearly and monthly electricity data covering generation by fuel type, demand, capacity, imports, and power sector emissions for over 200 countries from 2000 to present, published by Ember.",
+    "data_type": ["tabular", "timeseries"],
+    "energy_sector": ["demand", "fossil", "grid", "hydro", "nuclear", "solar", "wind"],
+    "format": ["api", "csv"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://ember-energy.org/data/",
+      "docs": "https://ember-energy.org/data/data-tools/data-explorer/"
+    }
+  },
+  {
     "name": "MV-LV Networks",
     "description": "Medium-voltage and low-voltage network models for distribution system studies.",
     "data_type": ["geospatial", "metadata"],
