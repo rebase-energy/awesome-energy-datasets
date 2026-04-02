@@ -115,7 +115,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **HEDGE — Home Electricity Data Generator** — LinkedIn reference: https://www.linkedin.com/posts/flora-charbonnier-bevan-phd-398874107_home-electricity-data-generator-hedge-activity-7183858670936457219--opY (find the actual dataset/code)
 
-- [ ] **Greybrick Buildings** — https://github.com/JulienLeprince/greybrickbuildings
+- [x] **Greybrick Buildings** — https://github.com/JulienLeprince/greybrickbuildings
 
 ### Weather & climate datasets
 
