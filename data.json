@@ -73,6 +73,18 @@
     }
   },
   {
+    "name": "GEE Community Datasets (Google Earth Engine)",
+    "description": "Community-driven catalog of hundreds of geospatial datasets ingested into Google Earth Engine, including energy-relevant layers such as the Global Power Plant Database, global offshore wind turbine locations, ground-mounted solar farm inventories, electrical distribution grid maps, power transmission infrastructure, nighttime lights for energy consumption analysis, and building footprints, with global coverage at resolutions from 10 m to planetary scale.",
+    "data_type": ["geospatial", "metadata"],
+    "energy_sector": ["grid", "solar", "wind"],
+    "format": ["api"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://gee-community-catalog.org/",
+      "code": "https://github.com/samapriya/awesome-gee-community-datasets"
+    }
+  },
+  {
     "name": "Helen Open Data (Finland)",
     "description": "Hourly district heating power production data for Helsinki from 2015 to 2024, published by Helen Oy as downloadable CSV, with additional electricity, district cooling, and solar production data accessible via APIs on the Helen partner platform.",
     "data_type": ["timeseries"],
