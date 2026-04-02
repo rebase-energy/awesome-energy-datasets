@@ -83,7 +83,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Irish Smart Grid Dashboard (Frequency data)** — https://www.smartgriddashboard.com/
 
-- [ ] **Open Grid Emissions (Singularity Energy)** — https://singularity.energy/open-grid-emissions
+- [x] **Open Grid Emissions (Singularity Energy)** — https://singularity.energy/open-grid-emissions
 
 - [x] **Swedish Reserve Market Data (SVK)** — https://www.svk.se/aktorsportalen/bidra-med-reserver/behov-av-reserver-nu-och-i-framtiden/utbud-pa-marknaderna-for-reserver/
 
