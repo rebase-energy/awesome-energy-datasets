@@ -48,6 +48,17 @@
     }
   },
   {
+    "name": "Kelmarsh Wind Farm Data",
+    "description": "Operational data from the Kelmarsh wind farm (six Senvion MM92 turbines, 12.3 MW total) in the UK, including 10-minute SCADA and events data from 2016 to mid-2021, turbine coordinates, static specifications, signal mappings, and substation meter readings.",
+    "data_type": ["metadata", "timeseries"],
+    "energy_sector": ["wind"],
+    "format": ["csv"],
+    "coverage": ["site"],
+    "links": {
+      "url": "https://zenodo.org/records/5841834"
+    }
+  },
+  {
     "name": "MV-LV Networks",
     "description": "Medium-voltage and low-voltage network models for distribution system studies.",
     "data_type": ["geospatial", "metadata"],
