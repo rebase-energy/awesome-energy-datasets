@@ -149,7 +149,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Realto API Marketplace** — https://realto.io/api-marketplace/
 
-- [ ] **Denmark Energy Data (EnergyData.dk)** — https://energydata.dk/en/
+- [x] **Denmark Energy Data (EnergyData.dk)** — https://energydata.dk/en/
 
 - [x] **Sweden Open Data Portal (Energy)** — https://www.dataportal.se/en/datasets?q=energy
 
