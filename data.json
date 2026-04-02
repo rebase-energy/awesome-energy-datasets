@@ -159,6 +159,18 @@
     }
   },
   {
+    "name": "Global Energy Monitor",
+    "description": "Nonprofit open-data platform cataloging energy infrastructure projects worldwide through 20+ specialized trackers covering coal plants, coal mines, oil and gas extraction, gas pipelines, LNG terminals, solar farms, wind farms, hydropower, geothermal, nuclear, bioenergy, and heavy industry (steel, cement), providing project-level data on location, capacity, ownership, status, and development stage as downloadable Excel/CSV datasets with global coverage.",
+    "data_type": ["geospatial", "metadata", "tabular"],
+    "energy_sector": ["fossil", "grid", "hydro", "nuclear", "solar", "wind"],
+    "format": ["csv", "excel"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://globalenergymonitor.org/",
+      "code": "https://github.com/GlobalEnergyMonitor"
+    }
+  },
+  {
     "name": "Grey-brick Buildings (Dutch Residential Heat Dynamics)",
     "description": "Open dataset of 225 calibrated grey-box resistance-capacitance (RC) thermal models of Dutch residential buildings, providing estimated thermal resistances, capacitances, heat transfer coefficients, solar apertures, model structures selected via forward selection, and building metadata (construction period, home type, size), derived from smart thermostat and weather data.",
     "data_type": ["metadata", "tabular"],
