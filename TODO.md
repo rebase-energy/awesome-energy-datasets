@@ -97,7 +97,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 ### Building & demand datasets
 
-- [ ] **Smart Meter Heatmap (WPD)** — https://github.com/wpd-data/smart-meters
+- [SKIP] **Smart Meter Heatmap (WPD)** — https://github.com/wpd-data/smart-meters — Not a dataset; it's a Jupyter notebook tutorial for WPD's Connected Data Portal, which is no longer accessible (returns 403). WPD was acquired by National Grid.
 
 - [x] **Thermal Properties of Building Materials** — https://vbn.aau.dk/en/publications/thermal-properties-of-building-materials-review-and-database
 
