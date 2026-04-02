@@ -361,6 +361,17 @@
     }
   },
   {
+    "name": "Portugal Daily Electricity Balance (REN)",
+    "description": "Daily electricity balance for mainland Portugal published by REN (the Portuguese TSO), covering total consumption, generation by source (hydro, wind, solar, biomass, natural gas), cross-border import/export flows, pumped hydro storage, and peak demand, with historical daily data available for download.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["demand", "fossil", "grid", "hydro", "solar", "wind"],
+    "format": ["csv", "excel", "json"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://datahub.ren.pt/en/electricity/daily-balance/"
+    }
+  },
+  {
     "name": "Power Station Dictionary",
     "description": "An open dictionary mapping between various UK power station identifiers (BMU IDs, CfD IDs, GppD IDs, etc.) and linking associated plant metadata such as fuel type, capacity, location, carbon intensity, and generation output, covering over 300 generation facilities across Great Britain.",
     "data_type": ["metadata", "tabular"],
