@@ -153,7 +153,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Sweden Open Data Portal (Energy)** — https://www.dataportal.se/en/datasets?q=energy
 
-- [ ] **Helen Open Data (Finland)** — https://www.helen.fi/en/company/responsibility/current-topics/open-data
+- [x] **Helen Open Data (Finland)** — https://www.helen.fi/en/company/responsibility/current-topics/open-data
 
 - [SKIP] **COPED (Coventry Open Platform for Energy Data)** — https://coped.coventry.ac.uk/ and https://github.com/cogent-computing/COPED — Links are dead; the original site (coped.coventry.ac.uk) is unreachable, the GitHub repo is deprecated, and the successor site (coped.energy) hosted by Energy Systems Catapult is also unreachable.
 
