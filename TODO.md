@@ -129,7 +129,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Swiss Electricity Prices (ElCom)** — https://www.prix-electricite.elcom.admin.ch/
 
-- [ ] **Battery Charts (Germany)** — https://www.battery-charts.de/
+- [x] **Battery Charts (Germany)** — https://www.battery-charts.de/
 
 ### Storage & hydrogen datasets
 
