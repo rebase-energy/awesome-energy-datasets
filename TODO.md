@@ -137,7 +137,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Storage Lab Data** — https://www.storage-lab.com/data
 
-- [ ] **BESS Analytics** — https://www.bessanalytics.com/
+- [SKIP] **BESS Analytics** — https://www.bessanalytics.com/ — Paywalled; BESS Analytics has been fully migrated to Cornwall Insight's paid CATALYST portal (exclusive to Cornwall Insight customers) with no public data access.
 
 ### Energy data portals & platforms
 
