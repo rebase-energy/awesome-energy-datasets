@@ -89,7 +89,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Portugal Daily Electricity Balance (REN)** — https://datahub.ren.pt/en/electricity/daily-balance/
 
-- [ ] **UK Energy Dashboard** — https://www.energydashboard.co.uk/data
+- [x] **UK Energy Dashboard** — https://www.energydashboard.co.uk/data
 
 - [x] **Power Station Dictionary (OSUKED)** — https://github.com/OSUKED/Power-Station-Dictionary and https://osuked.github.io/Power-Station-Dictionary/index.html
 
