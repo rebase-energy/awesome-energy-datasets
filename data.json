@@ -116,6 +116,17 @@
     }
   },
   {
+    "name": "PG&E Distribution Resource Planning Data",
+    "description": "PG&E's Grid Resource Integration Portal (GRIP) providing hosting capacity, load forecasts, and grid needs assessments for distributed energy resource planning across PG&E's California service territory.",
+    "data_type": ["geospatial", "tabular"],
+    "energy_sector": ["battery", "grid", "solar"],
+    "format": ["csv"],
+    "coverage": ["region"],
+    "links": {
+      "url": "https://www.pge.com/en/about/doing-business-with-pge/interconnections/distributed-resource-planning-data-and-maps.html"
+    }
+  },
+  {
     "name": "PowerTAC",
     "description": "Open-source competitive simulation platform for retail electricity markets where autonomous broker agents trade in wholesale markets, manage tariffs, and balance supply and demand, producing detailed game logs with market transactions, customer behaviour, weather, and grid operations data.",
     "data_type": ["tabular", "timeseries"],
