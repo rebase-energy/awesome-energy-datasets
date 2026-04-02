@@ -91,5 +91,18 @@
     "links": {
       "url": "https://www.lcp.com/en/energy-transition/technology/enact/storetrack"
     }
+  },
+  {
+    "name": "UKPVGeo",
+    "description": "Crowdsourced geographic dataset of over 260,000 solar PV installations across the UK, covering approximately 86% of installed capacity (10.66 GW mapped, 13.93 GW inferred), with location coordinates and capacity metadata for both domestic rooftop and utility-scale solar farms.",
+    "data_type": ["geospatial", "metadata"],
+    "energy_sector": ["solar"],
+    "format": ["csv", "json"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://zenodo.org/records/4059881",
+      "code": "https://github.com/openclimatefix/solar-power-mapping-data",
+      "paper": "https://doi.org/10.1038/s41597-020-00739-0"
+    }
   }
 ]
