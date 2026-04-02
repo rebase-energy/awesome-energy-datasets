@@ -339,6 +339,18 @@
     }
   },
   {
+    "name": "Open Grid Emissions (Singularity Energy)",
+    "description": "Validated hourly, monthly, and annual U.S. electric grid generation, greenhouse gas, and air pollution emissions data from 2005 to 2022, produced by combining measured emissions data with modeled hourly profiles, covering all U.S. balancing authorities including Alaska and Hawaii, with open-source methodology under MIT license and data under CC-BY-4.0.",
+    "data_type": ["tabular", "timeseries"],
+    "energy_sector": ["fossil", "grid"],
+    "format": ["csv"],
+    "coverage": ["country", "region"],
+    "links": {
+      "url": "https://singularity.energy/open-grid-emissions",
+      "code": "https://github.com/singularity-energy/open-grid-emissions"
+    }
+  },
+  {
     "name": "Penmanshiel Wind Farm Data",
     "description": "Operational data from the Penmanshiel wind farm (14 Senvion MM82 turbines, 28.7 MW total) in Scotland, including 10-minute SCADA and events data from 2016 to mid-2021, turbine coordinates, static specifications, signal mappings, and grid connection phasor measurement unit readings.",
     "data_type": ["metadata", "timeseries"],
