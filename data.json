@@ -1,5 +1,16 @@
 [
   {
+    "name": "Battery Charts (Germany)",
+    "description": "Interactive data platform by ISEA RWTH Aachen tracking the German stationary battery storage market, with charts on installed capacity trends, the ISEA Battery Revenue Index for storage revenue opportunities, and live operational data from the M5BAT large-scale research battery.",
+    "data_type": ["tabular", "timeseries"],
+    "energy_sector": ["battery", "price"],
+    "format": ["api"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://www.battery-charts.de/"
+    }
+  },
+  {
     "name": "CO2 Monitor Netherlands",
     "description": "National Energy Dashboard for the Netherlands providing hourly electricity production by source, gas consumption, and CO₂ emission intensity data from 2021 onward, jointly developed by Gasunie, TenneT, and partners.",
     "data_type": ["timeseries"],
