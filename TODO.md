@@ -81,7 +81,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Copper Sushi European Power Flow** — https://121gigawatts.org/copper-sushi-power-flow-european-grid/
 
-- [ ] **Irish Smart Grid Dashboard (Frequency data)** — https://www.smartgriddashboard.com/
+- [x] **Irish Smart Grid Dashboard (Frequency data)** — https://www.smartgriddashboard.com/
 
 - [x] **Open Grid Emissions (Singularity Energy)** — https://singularity.energy/open-grid-emissions
 
