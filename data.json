@@ -267,6 +267,17 @@
     }
   },
   {
+    "name": "Irish Smart Grid Dashboard (EirGrid)",
+    "description": "Real-time and historical power system data for the island of Ireland operated by EirGrid and SONI, providing system frequency, electricity demand, wind and solar generation, interconnector flows, fuel mix, CO₂ emissions intensity, System Non-Synchronous Penetration (SNSP), and imbalance pricing, with regional views for All Island, Republic of Ireland, and Northern Ireland.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["demand", "grid", "solar", "wind"],
+    "format": ["api"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://www.smartgriddashboard.com/"
+    }
+  },
+  {
     "name": "Kelmarsh Wind Farm Data",
     "description": "Operational data from the Kelmarsh wind farm (six Senvion MM92 turbines, 12.3 MW total) in the UK, including 10-minute SCADA and events data from 2016 to mid-2021, turbine coordinates, static specifications, signal mappings, and substation meter readings.",
     "data_type": ["metadata", "timeseries"],
