@@ -164,6 +164,18 @@
     }
   },
   {
+    "name": "Realto API Marketplace",
+    "description": "European digital marketplace for energy data APIs operated by Elia Group, aggregating third-party and TSO data products including solar and wind generation forecasts for Belgium, real-time grid imbalance and regulation capacity data, wholesale electricity market prices for Belgium, Germany, France, Netherlands, and Great Britain, EV charging APIs, and smart meter data.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["demand", "grid", "price", "solar", "transport", "wind"],
+    "format": ["api", "json"],
+    "coverage": ["continental"],
+    "links": {
+      "url": "https://realto.io/api-marketplace/",
+      "code": "https://github.com/realto-energy"
+    }
+  },
+  {
     "name": "STOREtrack",
     "description": "Database of over 4,000 energy storage projects across 29 European countries, tracking project specifications, timelines, technology types, and key stakeholders.",
     "data_type": ["geospatial", "tabular"],
