@@ -194,6 +194,18 @@
     }
   },
   {
+    "name": "Honda Smart Home US (LBNL BBD)",
+    "description": "High-resolution (1-minute) operational dataset from the Honda Smart Home, a net-zero energy demonstration house in Davis, California, covering a full year (2020) of 332 data channels across 230+ sensors including HVAC (radiant geothermal heat pump), hot water (heat pump water heater), lighting, plug loads, solar PV generation, battery storage, EV charging, indoor/outdoor environmental conditions, and occupancy data, published under CC BY 4.0.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["building", "demand", "solar"],
+    "format": ["csv"],
+    "coverage": ["site"],
+    "links": {
+      "url": "https://bbd.labworks.org/ds/bbd/hshus",
+      "paper": "https://doi.org/10.17041/1856495"
+    }
+  },
+  {
     "name": "Icebreaker One Open Energy",
     "description": "UK energy data discovery catalog operated by Icebreaker One, indexing open and shared datasets from over 600 stakeholders including UK Power Networks, Elexon, and Distribution Network Operators, covering grid infrastructure, EV charging, smart meter consumption, district heating, renewable generation, and building energy data across the United Kingdom.",
     "data_type": ["metadata"],
