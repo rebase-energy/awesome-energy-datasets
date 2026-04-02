@@ -189,4 +189,4 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [x] **Staffell Energy Modelling Data** — LinkedIn reference: https://www.linkedin.com/posts/iainstaffell_energy-modeling-sustainability-activity-7108336797809528832-OHFa (find the actual dataset)
 
-- [ ] **Building Thermal Data (Hussain Kazmi)** — LinkedIn reference: https://www.linkedin.com/posts/hussain-kazmi_interpretable-domain-informed-and-domain-agnostic-activity-7185741221321973760-kk6j (find the actual dataset)
+- [x] **Building Thermal Data (Hussain Kazmi)** — LinkedIn reference: https://www.linkedin.com/posts/hussain-kazmi_interpretable-domain-informed-and-domain-agnostic-activity-7185741221321973760-kk6j (find the actual dataset)
