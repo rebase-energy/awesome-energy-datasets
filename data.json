@@ -134,6 +134,19 @@
     }
   },
   {
+    "name": "Grey-brick Buildings (Dutch Residential Heat Dynamics)",
+    "description": "Open dataset of 225 calibrated grey-box resistance-capacitance (RC) thermal models of Dutch residential buildings, providing estimated thermal resistances, capacitances, heat transfer coefficients, solar apertures, model structures selected via forward selection, and building metadata (construction period, home type, size), derived from smart thermostat and weather data.",
+    "data_type": ["metadata", "tabular"],
+    "energy_sector": ["building"],
+    "format": ["csv"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://github.com/JulienLeprince/greybrickbuildings",
+      "code": "https://github.com/JulienLeprince/greybrickbuildings",
+      "paper": "https://doi.org/10.1145/3560905.3567760"
+    }
+  },
+  {
     "name": "H2 Infrastructure Map Europe",
     "description": "Interactive map of European hydrogen infrastructure projects covering 250+ production facilities, 180+ transmission pipelines, 60+ distribution networks, 80+ storage sites, and 30+ terminals and ports, with project details including development status and PCI/PMI indicators.",
     "data_type": ["geospatial", "metadata"],
