@@ -187,6 +187,6 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Energy Storage Markets Europe** — LinkedIn reference: https://www.linkedin.com/posts/phillippa-c-rose-79bb2b92_energystoragemarkets-europe-energystorage-activity-7002971364227731457-bFfe (find the actual dataset)
 
-- [ ] **Staffell Energy Modelling Data** — LinkedIn reference: https://www.linkedin.com/posts/iainstaffell_energy-modeling-sustainability-activity-7108336797809528832-OHFa (find the actual dataset)
+- [x] **Staffell Energy Modelling Data** — LinkedIn reference: https://www.linkedin.com/posts/iainstaffell_energy-modeling-sustainability-activity-7108336797809528832-OHFa (find the actual dataset)
 
 - [ ] **Building Thermal Data (Hussain Kazmi)** — LinkedIn reference: https://www.linkedin.com/posts/hussain-kazmi_interpretable-domain-informed-and-domain-agnostic-activity-7185741221321973760-kk6j (find the actual dataset)
