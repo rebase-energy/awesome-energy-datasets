@@ -48,6 +48,18 @@
     }
   },
   {
+    "name": "Hill of Towie Wind Farm Data",
+    "description": "Operational data from the Hill of Towie wind farm (21 Siemens SWT-2.3-VS-82 turbines, 48.3 MW total) in Scotland, including over 8 years of 10-minute SCADA data and alarm logs from January 2016 through August 2024, turbine coordinates, static specifications, and shutdown duration calculations.",
+    "data_type": ["metadata", "timeseries"],
+    "energy_sector": ["wind"],
+    "format": ["csv"],
+    "coverage": ["site"],
+    "links": {
+      "url": "https://zenodo.org/records/14870023",
+      "code": "https://github.com/resgroup/hill-of-towie-open-source-analysis"
+    }
+  },
+  {
     "name": "Kelmarsh Wind Farm Data",
     "description": "Operational data from the Kelmarsh wind farm (six Senvion MM92 turbines, 12.3 MW total) in the UK, including 10-minute SCADA and events data from 2016 to mid-2021, turbine coordinates, static specifications, signal mappings, and substation meter readings.",
     "data_type": ["metadata", "timeseries"],
