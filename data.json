@@ -142,6 +142,20 @@
     }
   },
   {
+    "name": "Open Energy Platform (OEP)",
+    "description": "Community-driven open data platform for energy system research hosting over 4,800 tables across schemas including scenario projections, grid infrastructure, climate and weather, demand, supply, emissions, and economic data, with a REST API, standardised OEMetadata, and the Open Energy Ontology (OEO) for consistent annotation.",
+    "data_type": ["geospatial", "metadata", "tabular", "timeseries"],
+    "energy_sector": ["demand", "fossil", "grid", "nuclear", "solar", "wind"],
+    "format": ["api", "json"],
+    "coverage": ["continental", "country"],
+    "links": {
+      "url": "https://openenergyplatform.org/",
+      "docs": "https://openenergyplatform.github.io/",
+      "api": "https://openenergyplatform.org/api/v0/",
+      "code": "https://github.com/OpenEnergyPlatform/oeplatform"
+    }
+  },
+  {
     "name": "Penmanshiel Wind Farm Data",
     "description": "Operational data from the Penmanshiel wind farm (14 Senvion MM82 turbines, 28.7 MW total) in Scotland, including 10-minute SCADA and events data from 2016 to mid-2021, turbine coordinates, static specifications, signal mappings, and grid connection phasor measurement unit readings.",
     "data_type": ["metadata", "timeseries"],
