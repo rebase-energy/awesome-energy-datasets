@@ -173,7 +173,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Zenodo 5841834** — https://zenodo.org/record/5841834 (investigate what this dataset contains)
 
-- [ ] **Nature Scientific Data paper (s41597-020-00739-0)** — https://www.nature.com/articles/s41597-020-00739-0 (investigate the associated dataset)
+- [x] **Nature Scientific Data paper (s41597-020-00739-0)** — https://www.nature.com/articles/s41597-020-00739-0 (investigate the associated dataset)
 
 - [x] **JOSS paper 3313** — https://joss.theoj.org/papers/10.21105/joss.03313 (investigate the associated dataset)
 
