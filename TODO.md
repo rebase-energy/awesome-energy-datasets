@@ -179,7 +179,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 ### Other / uncategorised
 
-- [ ] **PowerTAC** — LinkedIn reference: https://www.linkedin.com/posts/ketter_powertac-energy-sustainability-activity-7133110807868919808-Dqop (find the actual data/platform)
+- [x] **PowerTAC** — LinkedIn reference: https://www.linkedin.com/posts/ketter_powertac-energy-sustainability-activity-7133110807868919808-Dqop (find the actual data/platform)
 
 - [x] **Ember Open Data** — LinkedIn reference: https://www.linkedin.com/posts/dave-jones-ember_opendata-activity-7062065738911473664-VIin (find the actual dataset at ember-climate.org)
 
