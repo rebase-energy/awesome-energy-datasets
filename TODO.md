@@ -101,7 +101,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Thermal Properties of Building Materials** — https://vbn.aau.dk/en/publications/thermal-properties-of-building-materials-review-and-database
 
-- [ ] **Building Energy Models Directory** — https://xiaoyujin97-building-data-directory-meta-directory-e3n6bv.streamlit.app/Building_Energy_Models
+- [x] **Building Energy Models Directory** — https://xiaoyujin97-building-data-directory-meta-directory-e3n6bv.streamlit.app/Building_Energy_Models
 
 - [x] **Microsoft Global ML Building Footprints** — https://github.com/microsoft/GlobalMLBuildingFootprints
 
