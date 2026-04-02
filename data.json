@@ -134,6 +134,18 @@
     }
   },
   {
+    "name": "Energy Dashboard (Great Britain)",
+    "description": "Real-time and historical electricity generation, demand, and carbon intensity data for Great Britain updated every 5–30 minutes, covering 3,000+ power stations, wind farms, and solar installations with half-hourly historical data back to 2009, sourced from Elexon BMRS, National Grid ESO, and Sheffield Solar PV Live.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["demand", "fossil", "grid", "nuclear", "solar", "wind"],
+    "format": ["api"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://www.energydashboard.co.uk/",
+      "docs": "https://www.energydashboard.co.uk/data"
+    }
+  },
+  {
     "name": "EnergyData.dk (Denmark)",
     "description": "Danish energy data hub operated by DTU providing real-time and historical datasets including smart meter electricity consumption, district heating supply, transformer station power measurements, building automation data, city battery operations, EV charging station data, weather station observations and forecasts, and CO₂ emissions from Danish electricity production, primarily covering Copenhagen's Nordhavn district and Bornholm island.",
     "data_type": ["timeseries"],
