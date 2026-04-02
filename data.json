@@ -214,6 +214,18 @@
     }
   },
   {
+    "name": "Storage Lab",
+    "description": "Research data platform on electrical energy storage providing historical product prices and cumulative deployed capacity for major storage technologies (lithium-ion, flow batteries, pumped hydro, compressed air, and others), enabling experience curve analysis to project future investment costs, plus curated links to open-access energy storage project maps and databases worldwide.",
+    "data_type": ["tabular"],
+    "energy_sector": ["battery"],
+    "format": ["api"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://www.storage-lab.com/data",
+      "paper": "https://www.nature.com/articles/nenergy2017110"
+    }
+  },
+  {
     "name": "STOREtrack",
     "description": "Database of over 4,000 energy storage projects across 29 European countries, tracking project specifications, timelines, technology types, and key stakeholders.",
     "data_type": ["geospatial", "tabular"],
