@@ -109,7 +109,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Ecobee Building Data (LBNL)** — https://bbd.labworks.org/ds/bbd/ecobee
 
-- [ ] **Home Series HVAC & Hot Water (LBNL)** — https://bbd.labworks.org/ds/bbd/hshus
+- [x] **Home Series HVAC & Hot Water (LBNL)** — https://bbd.labworks.org/ds/bbd/hshus
 
 - [x] **Low-Voltage Load Forecasting Dataset** — https://low-voltage-loadforecasting.github.io/ and paper: https://arxiv.org/abs/2106.00006
 
