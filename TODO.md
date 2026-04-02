@@ -145,7 +145,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Open Energy Platform** — https://openenergy-platform.org/
 
-- [ ] **Icebreaker One / Open Energy** — https://icebreakerone.org/ and https://data.openenergy.org.uk/dataset-list
+- [x] **Icebreaker One / Open Energy** — https://icebreakerone.org/ and https://data.openenergy.org.uk/dataset-list
 
 - [x] **Realto API Marketplace** — https://realto.io/api-marketplace/
 
