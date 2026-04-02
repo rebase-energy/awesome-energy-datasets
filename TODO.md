@@ -143,7 +143,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **GEE Community Datasets (Google Earth Engine)** — https://github.com/samapriya/awesome-gee-community-datasets and https://gee-community-catalog.org/
 
-- [ ] **Open Energy Platform** — https://openenergy-platform.org/
+- [x] **Open Energy Platform** — https://openenergy-platform.org/
 
 - [x] **Icebreaker One / Open Energy** — https://icebreakerone.org/ and https://data.openenergy.org.uk/dataset-list
 
