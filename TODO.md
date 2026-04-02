@@ -111,7 +111,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Home Series HVAC & Hot Water (LBNL)** — https://bbd.labworks.org/ds/bbd/hshus
 
-- [ ] **Low-Voltage Load Forecasting Dataset** — https://low-voltage-loadforecasting.github.io/ and paper: https://arxiv.org/abs/2106.00006
+- [x] **Low-Voltage Load Forecasting Dataset** — https://low-voltage-loadforecasting.github.io/ and paper: https://arxiv.org/abs/2106.00006
 
 - [x] **HEDGE — Home Electricity Data Generator** — LinkedIn reference: https://www.linkedin.com/posts/flora-charbonnier-bevan-phd-398874107_home-electricity-data-generator-hedge-activity-7183858670936457219--opY (find the actual dataset/code)
 
