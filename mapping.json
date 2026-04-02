@@ -1,0 +1,38 @@
+{
+  "data_type": {
+    "timeseries": "📈",
+    "geospatial": "🗺️",
+    "metadata": "🏷️",
+    "tabular": "📊"
+  },
+  "energy_sector": {
+    "solar": "☀️",
+    "wind": "🌬️",
+    "hydro": "💦",
+    "demand": "🔌",
+    "price": "💰",
+    "weather": "🌤️",
+    "grid": "⚡",
+    "fossil": "🏭",
+    "nuclear": "☢️",
+    "building": "🏠",
+    "battery": "🔋",
+    "transport": "🚗"
+  },
+  "format": {
+    "csv": "📄",
+    "parquet": "🗂️",
+    "api": "🔗",
+    "json": "📋",
+    "excel": "📑",
+    "netcdf": "🌐"
+  },
+  "coverage": {
+    "global": "🌍",
+    "continental": "🗺️",
+    "country": "🏳️",
+    "region": "📍",
+    "city": "🏙️",
+    "site": "📌"
+  }
+}

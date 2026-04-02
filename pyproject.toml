@@ -1,0 +1,7 @@
+[project]
+name = "awesome-energy-datasets"
+version = "0.1.0"
+description = "A curated list of energy-relevant datasets for modelling tasks"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []

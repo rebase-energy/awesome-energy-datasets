@@ -1,0 +1,24 @@
+[
+  {
+    "name": "MV-LV Networks",
+    "description": "Medium-voltage and low-voltage network models for distribution system studies.",
+    "data_type": ["geospatial", "metadata"],
+    "energy_sector": ["grid"],
+    "format": ["csv"],
+    "coverage": ["region"],
+    "links": {
+      "code": "https://github.com/Team-Nando/MV-LV-Networks"
+    }
+  },
+  {
+    "name": "NVE Wind Power Generation Data",
+    "description": "Hourly power generation time series and metadata for 72 Norwegian wind parks (425 turbines), covering 1991-2023.",
+    "data_type": ["metadata", "timeseries"],
+    "energy_sector": ["wind"],
+    "format": ["csv", "parquet"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://huggingface.co/datasets/rebase-energy/nve-windpower-data"
+    }
+  }
+]
