@@ -77,7 +77,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **EIA US Grid Monitor** — https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
 
-- [ ] **Dutch High-Voltage Grid Map** — https://webkaart.hoogspanningsnet.com/index2.php
+- [x] **Dutch High-Voltage Grid Map** — https://webkaart.hoogspanningsnet.com/index2.php
 
 - [x] **Copper Sushi European Power Flow** — https://121gigawatts.org/copper-sushi-power-flow-european-grid/
 
