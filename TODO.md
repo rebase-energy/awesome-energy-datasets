@@ -183,7 +183,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Ember Open Data** — LinkedIn reference: https://www.linkedin.com/posts/dave-jones-ember_opendata-activity-7062065738911473664-VIin (find the actual dataset at ember-climate.org)
 
-- [ ] **Energy Data Spaces (EU initiative)** — LinkedIn reference: https://www.linkedin.com/posts/nunosouzasilva_energy-data-spaces-current-results-of-the-activity-7161723739112513538-agL1 (find the actual data source)
+- [x] **Energy Data Spaces (EU initiative)** — LinkedIn reference: https://www.linkedin.com/posts/nunosouzasilva_energy-data-spaces-current-results-of-the-activity-7161723739112513538-agL1 (find the actual data source)
 
 - [x] **Energy Storage Markets Europe** — LinkedIn reference: https://www.linkedin.com/posts/phillippa-c-rose-79bb2b92_energystoragemarkets-europe-energystorage-activity-7002971364227731457-bFfe (find the actual dataset)
 
