@@ -23,6 +23,19 @@
     }
   },
   {
+    "name": "Building Energy Demand Features",
+    "description": "Open-source feature matrix and extraction pipeline for over 13,000 buildings worldwide, providing interpretable domain-informed (via IFEEL) and domain-agnostic (via tsfeatures) time-series features computed from smart meter electricity demand data and building metadata, compiled from multiple open datasets on the EDS-lab HuggingFace repository.",
+    "data_type": ["metadata", "tabular"],
+    "energy_sector": ["building", "demand"],
+    "format": ["csv", "parquet"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://huggingface.co/datasets/EDS-lab/electricity-demand",
+      "code": "https://github.com/adacanaydin/time-series-feature-extraction",
+      "paper": "https://doi.org/10.1016/j.apenergy.2024.122741"
+    }
+  },
+  {
     "name": "ClimaPower",
     "description": "Hourly country-level time series of wind and solar power capacity factors, hydropower inflow, and heating and cooling demand for European countries (EU27, Balkans, UK, Norway, Switzerland), derived from ERA5 reanalysis (1940–2023) and EURO-CORDEX climate projections (2006–2100) under three emission scenarios.",
     "data_type": ["timeseries"],
