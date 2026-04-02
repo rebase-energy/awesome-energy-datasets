@@ -17,7 +17,8 @@
     "nuclear": "☢️",
     "building": "🏠",
     "battery": "🔋",
-    "transport": "🚗"
+    "transport": "🚗",
+    "hydrogen": "💧"
   },
   "format": {
     "csv": "📄",

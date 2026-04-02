@@ -85,6 +85,17 @@
     }
   },
   {
+    "name": "H2 Infrastructure Map Europe",
+    "description": "Interactive map of European hydrogen infrastructure projects covering 250+ production facilities, 180+ transmission pipelines, 60+ distribution networks, 80+ storage sites, and 30+ terminals and ports, with project details including development status and PCI/PMI indicators.",
+    "data_type": ["geospatial", "metadata"],
+    "energy_sector": ["hydrogen"],
+    "format": ["api"],
+    "coverage": ["continental"],
+    "links": {
+      "url": "https://www.h2inframap.eu/"
+    }
+  },
+  {
     "name": "Helen Open Data (Finland)",
     "description": "Hourly district heating power production data for Helsinki from 2015 to 2024, published by Helen Oy as downloadable CSV, with additional electricity, district cooling, and solar production data accessible via APIs on the Helen partner platform.",
     "data_type": ["timeseries"],
