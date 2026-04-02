@@ -97,6 +97,18 @@
     }
   },
   {
+    "name": "Icebreaker One Open Energy",
+    "description": "UK energy data discovery catalog operated by Icebreaker One, indexing open and shared datasets from over 600 stakeholders including UK Power Networks, Elexon, and Distribution Network Operators, covering grid infrastructure, EV charging, smart meter consumption, district heating, renewable generation, and building energy data across the United Kingdom.",
+    "data_type": ["metadata"],
+    "energy_sector": ["building", "demand", "grid", "solar", "transport", "wind"],
+    "format": ["api"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://openenergy.org.uk/",
+      "docs": "https://ib1.org/energy/uk/"
+    }
+  },
+  {
     "name": "Kelmarsh Wind Farm Data",
     "description": "Operational data from the Kelmarsh wind farm (six Senvion MM92 turbines, 12.3 MW total) in the UK, including 10-minute SCADA and events data from 2016 to mid-2021, turbine coordinates, static specifications, signal mappings, and substation meter readings.",
     "data_type": ["metadata", "timeseries"],
