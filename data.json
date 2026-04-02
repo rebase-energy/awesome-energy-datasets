@@ -349,6 +349,18 @@
     }
   },
   {
+    "name": "Power Station Dictionary",
+    "description": "An open dictionary mapping between various UK power station identifiers (BMU IDs, CfD IDs, GppD IDs, etc.) and linking associated plant metadata such as fuel type, capacity, location, carbon intensity, and generation output, covering over 300 generation facilities across Great Britain.",
+    "data_type": ["metadata", "tabular"],
+    "energy_sector": ["fossil", "grid", "hydro", "nuclear", "wind"],
+    "format": ["csv"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://osuked.github.io/Power-Station-Dictionary/",
+      "code": "https://github.com/OSUKED/Power-Station-Dictionary"
+    }
+  },
+  {
     "name": "PowerTAC",
     "description": "Open-source competitive simulation platform for retail electricity markets where autonomous broker agents trade in wholesale markets, manage tariffs, and balance supply and demand, producing detailed game logs with market transactions, customer behaviour, weather, and grid operations data.",
     "data_type": ["tabular", "timeseries"],
