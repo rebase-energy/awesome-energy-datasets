@@ -86,6 +86,18 @@
     }
   },
   {
+    "name": "Copper Sushi European Power Flow",
+    "description": "Interactive visualization of European electricity grid power flows built on PyPSA-Eur open model data, displaying 6,001 transmission lines (220 kV+ AC and HVDC), 3,657 substations, generation capacity by fuel type (solar, wind, hydro, coal, nuclear, gas), and power consumption across the full ENTSO-E area, with 2-hour temporal resolution.",
+    "data_type": ["geospatial", "timeseries"],
+    "energy_sector": ["demand", "fossil", "grid", "hydro", "nuclear", "solar", "wind"],
+    "format": ["api"],
+    "coverage": ["continental"],
+    "links": {
+      "url": "https://121gigawatts.org/copper-sushi-power-flow-european-grid/",
+      "code": "https://github.com/PyPSA/pypsa-eur"
+    }
+  },
+  {
     "name": "Demand.ninja",
     "description": "Daily temperature, heating degree days, and cooling degree days data spanning 1980-2022 for modelling heating and cooling energy demand in buildings at global scale.",
     "data_type": ["timeseries"],
