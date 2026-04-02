@@ -155,7 +155,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Helen Open Data (Finland)** — https://www.helen.fi/en/company/responsibility/current-topics/open-data
 
-- [ ] **COPED (Coventry Open Platform for Energy Data)** — https://coped.coventry.ac.uk/ and https://github.com/cogent-computing/COPED
+- [SKIP] **COPED (Coventry Open Platform for Energy Data)** — https://coped.coventry.ac.uk/ and https://github.com/cogent-computing/COPED — Links are dead; the original site (coped.coventry.ac.uk) is unreachable, the GitHub repo is deprecated, and the successor site (coped.energy) hosted by Energy Systems Catapult is also unreachable.
 
 - [x] **PG&E Distribution Resource Planning Data** — https://www.pge.com/en_US/for-our-business-partners/distribution-resource-planning/distribution-resource-planning-data-portal.page
 
