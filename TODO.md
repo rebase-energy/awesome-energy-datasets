@@ -161,7 +161,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **CO2 Monitor Netherlands** — https://co2monitor.nl/energiebronnen
 
-- [ ] **Openmod Initiative** — https://openmod-initiative.org/
+- [SKIP] **Openmod Initiative** — https://openmod-initiative.org/ — Not a dataset; it's a community network/wiki for energy modellers that links to external data sources but does not host or provide any downloadable/queryable data itself.
 
 - [x] **WattApp (Norway)** — https://www.wattapp.no/
 
