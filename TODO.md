@@ -171,7 +171,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Zenodo 5946808** — https://zenodo.org/record/5946808 (investigate what this dataset contains)
 
-- [ ] **Zenodo 5841834** — https://zenodo.org/record/5841834 (investigate what this dataset contains)
+- [x] **Zenodo 5841834** — https://zenodo.org/record/5841834 (investigate what this dataset contains)
 
 - [x] **Nature Scientific Data paper (s41597-020-00739-0)** — https://www.nature.com/articles/s41597-020-00739-0 (investigate the associated dataset)
 
