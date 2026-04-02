@@ -455,6 +455,17 @@
     }
   },
   {
+    "name": "Swedish Reserve Market Data (SVK)",
+    "description": "Prequalified reserve capacity volumes published by Svenska kraftnät (the Swedish TSO) for frequency containment (FCR-N, FCR-D), automatic and manual frequency restoration (aFRR, mFRR), and fast frequency response (FFR) markets, broken down by bidding zone (SE1–SE4) and energy source (hydropower, wind, solar, batteries, flexible consumption), with quarterly snapshots from 2023 onward and historical data available as downloadable Excel files.",
+    "data_type": ["tabular"],
+    "energy_sector": ["battery", "grid", "hydro", "solar", "wind"],
+    "format": ["excel"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://www.svk.se/aktorsportalen/bidra-med-reserver/behov-av-reserver-nu-och-i-framtiden/utbud-pa-marknaderna-for-reserver/"
+    }
+  },
+  {
     "name": "Swiss Electricity Prices (ElCom)",
     "description": "Official electricity tariff database from Switzerland's Federal Electricity Commission (ElCom) providing detailed price breakdowns for all ~2,200 Swiss municipalities, including energy costs, grid usage fees, municipal and cantonal levies, and the federal renewable energy surcharge, for different consumer categories (households and commercial) from 2009 onward.",
     "data_type": ["tabular"],
