@@ -123,7 +123,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **SECURES-Met (European Meteorological Data)** — LinkedIn reference: https://www.linkedin.com/posts/franziska-schoeniger-aa99a9126_secures-met-a-european-meteorological-data-activity-7106993451006607360-LQfE (find the actual dataset)
 
-- [ ] **ClimaPower** — https://github.com/eantonini/climapower
+- [x] **ClimaPower** — https://github.com/eantonini/climapower
 
 ### Price & market datasets
 
