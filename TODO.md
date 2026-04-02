@@ -107,7 +107,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Bing Maps Global Building Footprints** — https://blogs.bing.com/maps/2023-06/Bing-Maps-Global-Building-Footprints-released (may overlap with Microsoft dataset above — check)
 
-- [ ] **Ecobee Building Data (LBNL)** — https://bbd.labworks.org/ds/bbd/ecobee
+- [x] **Ecobee Building Data (LBNL)** — https://bbd.labworks.org/ds/bbd/ecobee
 
 - [x] **Home Series HVAC & Hot Water (LBNL)** — https://bbd.labworks.org/ds/bbd/hshus
 
