@@ -122,6 +122,17 @@
     }
   },
   {
+    "name": "Dutch High-Voltage Grid Map",
+    "description": "Independent volunteer-maintained interactive map of the Dutch and Belgian high-voltage electricity transmission network, displaying transmission lines, substations, pylons, and cables at 50 kV, 110 kV, 150 kV, 220 kV, and 380 kV voltage levels, with historical network maps dating back to 1918 and pylon identification guides, published under Creative Commons BY-NC.",
+    "data_type": ["geospatial", "metadata"],
+    "energy_sector": ["grid"],
+    "format": ["api"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://webkaart.hoogspanningsnet.com/index2.php"
+    }
+  },
+  {
     "name": "Ecobee Donate Your Data (LBNL BBD)",
     "description": "Curated subset of the ecobee Donate Your Data program comprising 5-minute-interval smart thermostat measurements and user-reported home and occupant metadata from 1,000 single-family residences across California, Texas, New York, and Illinois for the full year 2017, enabling analysis of residential HVAC operation, occupant behavior, and building thermal dynamics, published by LBNL and PNNL.",
     "data_type": ["metadata", "timeseries"],
