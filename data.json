@@ -81,6 +81,17 @@
     }
   },
   {
+    "name": "Penmanshiel Wind Farm Data",
+    "description": "Operational data from the Penmanshiel wind farm (14 Senvion MM82 turbines, 28.7 MW total) in Scotland, including 10-minute SCADA and events data from 2016 to mid-2021, turbine coordinates, static specifications, signal mappings, and grid connection phasor measurement unit readings.",
+    "data_type": ["metadata", "timeseries"],
+    "energy_sector": ["wind"],
+    "format": ["csv"],
+    "coverage": ["site"],
+    "links": {
+      "url": "https://zenodo.org/records/5946808"
+    }
+  },
+  {
     "name": "PowerTAC",
     "description": "Open-source competitive simulation platform for retail electricity markets where autonomous broker agents trade in wholesale markets, manage tariffs, and balance supply and demand, producing detailed game logs with market transactions, customer behaviour, weather, and grid operations data.",
     "data_type": ["tabular", "timeseries"],
