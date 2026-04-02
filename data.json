@@ -24,6 +24,18 @@
     }
   },
   {
+    "name": "diyepw",
+    "description": "Python package for generating Actual Meteorological Year (AMY) EnergyPlus weather files by merging TMY baselines with hourly observations from NOAA's Integrated Surface Database (ISD Lite), covering dry-bulb temperature, dew point, pressure, wind direction, and wind speed for WMO stations worldwide.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["building", "weather"],
+    "format": ["csv"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://github.com/IMMM-SFA/diyepw",
+      "paper": "https://doi.org/10.21105/joss.03313"
+    }
+  },
+  {
     "name": "Ember Open Data",
     "description": "Global yearly and monthly electricity data covering generation by fuel type, demand, capacity, imports, and power sector emissions for over 200 countries from 2000 to present, published by Ember.",
     "data_type": ["tabular", "timeseries"],
