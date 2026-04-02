@@ -1,5 +1,17 @@
 [
   {
+    "name": "BARRA2 (Australian Weather Reanalysis)",
+    "description": "High-resolution regional atmospheric reanalysis dataset for Australia and surrounding regions produced by the Bureau of Meteorology, providing hourly and sub-hourly gridded fields of wind speed, temperature, humidity, pressure, radiation, and precipitation at ~12 km resolution (with ~1.5 km nested domains for select areas) from 1979 to present, hosted on the NCI THREDDS server.",
+    "data_type": ["geospatial", "timeseries"],
+    "energy_sector": ["solar", "weather", "wind"],
+    "format": ["netcdf"],
+    "coverage": ["continental"],
+    "links": {
+      "url": "https://near.csiro.au/assets/42966a8f-bc3c-4bde-91d6-91bc5826aa21",
+      "code": "https://github.com/akarich73/barra2-dl"
+    }
+  },
+  {
     "name": "Battery Charts (Germany)",
     "description": "Interactive data platform by ISEA RWTH Aachen tracking the German stationary battery storage market, with charts on installed capacity trends, the ISEA Battery Revenue Index for storage revenue opportunities, and live operational data from the M5BAT large-scale research battery.",
     "data_type": ["tabular", "timeseries"],
