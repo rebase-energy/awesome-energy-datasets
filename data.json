@@ -254,6 +254,18 @@
     }
   },
   {
+    "name": "Microsoft Global ML Building Footprints",
+    "description": "Open dataset of 1.4 billion building footprints with height estimates for 174 million structures worldwide, derived from satellite and aerial imagery (2014–2024) using deep learning, published by Microsoft under the CDLA Permissive 2.0 license as line-delimited GeoJSON files partitioned by country and quadkey, also accessible via the Microsoft Planetary Computer.",
+    "data_type": ["geospatial"],
+    "energy_sector": ["building"],
+    "format": ["json"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://planetarycomputer.microsoft.com/dataset/ms-buildings",
+      "code": "https://github.com/microsoft/GlobalMLBuildingFootprints"
+    }
+  },
+  {
     "name": "MV-LV Networks",
     "description": "Medium-voltage and low-voltage network models for distribution system studies.",
     "data_type": ["geospatial", "metadata"],
