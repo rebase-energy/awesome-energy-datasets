@@ -79,7 +79,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Dutch High-Voltage Grid Map** — https://webkaart.hoogspanningsnet.com/index2.php
 
-- [ ] **Copper Sushi European Power Flow** — https://121gigawatts.org/copper-sushi-power-flow-european-grid/
+- [x] **Copper Sushi European Power Flow** — https://121gigawatts.org/copper-sushi-power-flow-european-grid/
 
 - [x] **Irish Smart Grid Dashboard (Frequency data)** — https://www.smartgriddashboard.com/
 
