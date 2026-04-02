@@ -249,6 +249,18 @@
     }
   },
   {
+    "name": "SECURES-Met",
+    "description": "European-wide hourly meteorological dataset for electricity modelling, providing temperature, solar radiation, wind capacity factors, and hydropower potential aggregated at NUTS0/NUTS2 level for EU countries, derived from ERA5 reanalysis (1981–2020) and EURO-CORDEX climate projections (1951–2100) under RCP4.5 and RCP8.5 scenarios.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["hydro", "solar", "weather", "wind"],
+    "format": ["csv"],
+    "coverage": ["continental"],
+    "links": {
+      "url": "https://zenodo.org/records/7907883",
+      "paper": "https://doi.org/10.1038/s41597-023-02494-4"
+    }
+  },
+  {
     "name": "Storage Lab",
     "description": "Research data platform on electrical energy storage providing historical product prices and cumulative deployed capacity for major storage technologies (lithium-ion, flow batteries, pumped hydro, compressed air, and others), enabling experience curve analysis to project future investment costs, plus curated links to open-access energy storage project maps and databases worldwide.",
     "data_type": ["tabular"],
