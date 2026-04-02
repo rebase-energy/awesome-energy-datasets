@@ -32,5 +32,16 @@
     "links": {
       "url": "https://huggingface.co/datasets/rebase-energy/nve-windpower-data"
     }
+  },
+  {
+    "name": "STOREtrack",
+    "description": "Database of over 4,000 energy storage projects across 29 European countries, tracking project specifications, timelines, technology types, and key stakeholders.",
+    "data_type": ["geospatial", "tabular"],
+    "energy_sector": ["battery"],
+    "format": ["csv"],
+    "coverage": ["continental"],
+    "links": {
+      "url": "https://www.lcp.com/en/energy-transition/technology/enact/storetrack"
+    }
   }
 ]
