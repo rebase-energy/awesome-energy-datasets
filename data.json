@@ -60,6 +60,18 @@
     }
   },
   {
+    "name": "Helen Open Data (Finland)",
+    "description": "Hourly district heating power production data for Helsinki from 2015 to 2024, published by Helen Oy as downloadable CSV, with additional electricity, district cooling, and solar production data accessible via APIs on the Helen partner platform.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["demand", "grid", "solar"],
+    "format": ["api", "csv"],
+    "coverage": ["city"],
+    "links": {
+      "url": "https://www.helen.fi/en/company/responsibility/current-topics/open-data",
+      "api": "https://open.helen.fi"
+    }
+  },
+  {
     "name": "Hill of Towie Wind Farm Data",
     "description": "Operational data from the Hill of Towie wind farm (21 Siemens SWT-2.3-VS-82 turbines, 48.3 MW total) in Scotland, including over 8 years of 10-minute SCADA data and alarm logs from January 2016 through August 2024, turbine coordinates, static specifications, and shutdown duration calculations.",
     "data_type": ["metadata", "timeseries"],
