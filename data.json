@@ -138,5 +138,16 @@
       "code": "https://github.com/openclimatefix/solar-power-mapping-data",
       "paper": "https://doi.org/10.1038/s41597-020-00739-0"
     }
+  },
+  {
+    "name": "WattApp",
+    "description": "Interactive map of available transformer capacity across Norway's electricity grid, developed by Elbits++ in collaboration with multiple Norwegian grid companies, showing over 680 locations where new consumption or production facilities can connect to the network.",
+    "data_type": ["geospatial", "metadata"],
+    "energy_sector": ["grid"],
+    "format": ["api"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://www.wattapp.no/"
+    }
   }
 ]
