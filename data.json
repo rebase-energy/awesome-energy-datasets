@@ -1,5 +1,17 @@
 [
   {
+    "name": "Demand.ninja",
+    "description": "Daily temperature, heating degree days, and cooling degree days data spanning 1980-2022 for modelling heating and cooling energy demand in buildings at global scale.",
+    "data_type": ["timeseries"],
+    "energy_sector": ["building", "demand"],
+    "format": ["csv"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://www.demand.ninja",
+      "code": "https://github.com/renewables-ninja/demand-ninja"
+    }
+  },
+  {
     "name": "MV-LV Networks",
     "description": "Medium-voltage and low-voltage network models for distribution system studies.",
     "data_type": ["geospatial", "metadata"],
