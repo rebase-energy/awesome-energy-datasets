@@ -151,7 +151,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Denmark Energy Data (EnergyData.dk)** — https://energydata.dk/en/
 
-- [ ] **Sweden Open Data Portal (Energy)** — https://www.dataportal.se/en/datasets?q=energy
+- [x] **Sweden Open Data Portal (Energy)** — https://www.dataportal.se/en/datasets?q=energy
 
 - [x] **Helen Open Data (Finland)** — https://www.helen.fi/en/company/responsibility/current-topics/open-data
 
