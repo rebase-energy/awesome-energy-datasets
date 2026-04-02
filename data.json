@@ -23,6 +23,19 @@
     }
   },
   {
+    "name": "Building Data Genome Directory",
+    "description": "Open data-sharing platform by BUDS Lab (NUS) aggregating approximately 60 building-related datasets for building performance research, covering categories including building energy models (EnergyPlus simulation files and prototype building data), energy and water consumption, weather, building information, occupancy, fault detection and diagnostics, and electric vehicle data, with interactive filtering, visualization, and community crowdsourcing capabilities.",
+    "data_type": ["metadata"],
+    "energy_sector": ["building", "demand"],
+    "format": ["api"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://buildingdatadirectory.org/",
+      "code": "https://github.com/buds-lab/building-data-directory",
+      "paper": "https://arxiv.org/abs/2307.00793"
+    }
+  },
+  {
     "name": "Building Energy Demand Features",
     "description": "Open-source feature matrix and extraction pipeline for over 13,000 buildings worldwide, providing interpretable domain-informed (via IFEEL) and domain-agnostic (via tsfeatures) time-series features computed from smart meter electricity demand data and building metadata, compiled from multiple open datasets on the EDS-lab HuggingFace repository.",
     "data_type": ["metadata", "tabular"],
