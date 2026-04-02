@@ -85,7 +85,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Open Grid Emissions (Singularity Energy)** — https://singularity.energy/open-grid-emissions
 
-- [ ] **Swedish Reserve Market Data (SVK)** — https://www.svk.se/aktorsportalen/bidra-med-reserver/behov-av-reserver-nu-och-i-framtiden/utbud-pa-marknaderna-for-reserver/
+- [x] **Swedish Reserve Market Data (SVK)** — https://www.svk.se/aktorsportalen/bidra-med-reserver/behov-av-reserver-nu-och-i-framtiden/utbud-pa-marknaderna-for-reserver/
 
 - [x] **Portugal Daily Electricity Balance (REN)** — https://datahub.ren.pt/en/electricity/daily-balance/
 
