@@ -97,6 +97,18 @@
     }
   },
   {
+    "name": "Ecobee Donate Your Data (LBNL BBD)",
+    "description": "Curated subset of the ecobee Donate Your Data program comprising 5-minute-interval smart thermostat measurements and user-reported home and occupant metadata from 1,000 single-family residences across California, Texas, New York, and Illinois for the full year 2017, enabling analysis of residential HVAC operation, occupant behavior, and building thermal dynamics, published by LBNL and PNNL.",
+    "data_type": ["metadata", "timeseries"],
+    "energy_sector": ["building", "demand"],
+    "format": ["csv", "json"],
+    "coverage": ["country"],
+    "links": {
+      "url": "https://bbd.labworks.org/ds/bbd/ecobee",
+      "paper": "https://doi.org/10.25584/ecobee/1854924"
+    }
+  },
+  {
     "name": "Ember Open Data",
     "description": "Global yearly and monthly electricity data covering generation by fuel type, demand, capacity, imports, and power sector emissions for over 200 countries from 2000 to present, published by Ember.",
     "data_type": ["tabular", "timeseries"],
