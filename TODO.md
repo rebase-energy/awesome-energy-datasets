@@ -91,7 +91,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **UK Energy Dashboard** — https://www.energydashboard.co.uk/data
 
-- [ ] **Power Station Dictionary (OSUKED)** — https://github.com/OSUKED/Power-Station-Dictionary and https://osuked.github.io/Power-Station-Dictionary/index.html
+- [x] **Power Station Dictionary (OSUKED)** — https://github.com/OSUKED/Power-Station-Dictionary and https://osuked.github.io/Power-Station-Dictionary/index.html
 
 - [x] **Global Energy Monitor** — https://globalenergymonitor.org/
 
