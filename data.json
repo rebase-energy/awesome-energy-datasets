@@ -217,6 +217,19 @@
     }
   },
   {
+    "name": "Low-Voltage Load Forecasting Dataset Directory",
+    "description": "Community-driven open catalog of low-voltage electricity load forecasting datasets compiled from a comprehensive review, listing 30+ datasets from over 30 countries with metadata on customer counts, temporal resolution (sub-second to hourly), measurement duration, submetering availability, weather data, intervention types, and licensing, covering residential, commercial, industrial, and substation-level smart meter and load profile data.",
+    "data_type": ["metadata"],
+    "energy_sector": ["building", "demand"],
+    "format": ["csv"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://low-voltage-loadforecasting.github.io/",
+      "code": "https://github.com/low-voltage-loadforecasting/low-voltage-loadforecasting.github.io",
+      "paper": "https://arxiv.org/abs/2106.00006"
+    }
+  },
+  {
     "name": "MV-LV Networks",
     "description": "Medium-voltage and low-voltage network models for distribution system studies.",
     "data_type": ["geospatial", "metadata"],
