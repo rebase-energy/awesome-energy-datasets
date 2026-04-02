@@ -141,7 +141,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 ### Energy data portals & platforms
 
-- [ ] **GEE Community Datasets (Google Earth Engine)** — https://github.com/samapriya/awesome-gee-community-datasets and https://gee-community-catalog.org/
+- [x] **GEE Community Datasets (Google Earth Engine)** — https://github.com/samapriya/awesome-gee-community-datasets and https://gee-community-catalog.org/
 
 - [x] **Open Energy Platform** — https://openenergy-platform.org/
 
