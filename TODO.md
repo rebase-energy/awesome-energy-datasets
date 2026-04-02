@@ -163,7 +163,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Openmod Initiative** — https://openmod-initiative.org/
 
-- [ ] **WattApp (Norway)** — https://www.wattapp.no/
+- [x] **WattApp (Norway)** — https://www.wattapp.no/
 
 ### Research datasets (from Zenodo / papers)
 
