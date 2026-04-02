@@ -135,7 +135,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **H2 Infrastructure Map Europe** — https://www.h2inframap.eu/
 
-- [ ] **Storage Lab Data** — https://www.storage-lab.com/data
+- [x] **Storage Lab Data** — https://www.storage-lab.com/data
 
 - [SKIP] **BESS Analytics** — https://www.bessanalytics.com/ — Paywalled; BESS Analytics has been fully migrated to Cornwall Insight's paid CATALYST portal (exclusive to Cornwall Insight customers) with no public data access.
 
