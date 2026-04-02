@@ -169,7 +169,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Zenodo 14870023** — https://zenodo.org/records/14870023 (investigate what this dataset contains)
 
-- [ ] **Zenodo 5946808** — https://zenodo.org/record/5946808 (investigate what this dataset contains)
+- [x] **Zenodo 5946808** — https://zenodo.org/record/5946808 (investigate what this dataset contains)
 
 - [x] **Zenodo 5841834** — https://zenodo.org/record/5841834 (investigate what this dataset contains)
 
