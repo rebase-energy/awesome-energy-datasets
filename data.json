@@ -58,6 +58,18 @@
     }
   },
   {
+    "name": "PowerTAC",
+    "description": "Open-source competitive simulation platform for retail electricity markets where autonomous broker agents trade in wholesale markets, manage tariffs, and balance supply and demand, producing detailed game logs with market transactions, customer behaviour, weather, and grid operations data.",
+    "data_type": ["tabular", "timeseries"],
+    "energy_sector": ["demand", "price", "solar", "wind"],
+    "format": ["csv"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://powertac.org",
+      "code": "https://github.com/powertac"
+    }
+  },
+  {
     "name": "STOREtrack",
     "description": "Database of over 4,000 energy storage projects across 29 European countries, tracking project specifications, timelines, technology types, and key stakeholders.",
     "data_type": ["geospatial", "tabular"],
