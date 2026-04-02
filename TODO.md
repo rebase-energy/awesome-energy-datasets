@@ -119,7 +119,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 ### Weather & climate datasets
 
-- [ ] **BARRA2 (Australian Weather Reanalysis)** — https://near.csiro.au/assets/42966a8f-bc3c-4bde-91d6-91bc5826aa21 and https://github.com/akarich73/barra2-dl
+- [x] **BARRA2 (Australian Weather Reanalysis)** — https://near.csiro.au/assets/42966a8f-bc3c-4bde-91d6-91bc5826aa21 and https://github.com/akarich73/barra2-dl
 
 - [x] **SECURES-Met (European Meteorological Data)** — LinkedIn reference: https://www.linkedin.com/posts/franziska-schoeniger-aa99a9126_secures-met-a-european-meteorological-data-activity-7106993451006607360-LQfE (find the actual dataset)
 
