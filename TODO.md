@@ -105,7 +105,7 @@ Each task below represents a potential dataset to add to this repository. For ea
 
 - [ ] **Microsoft Global ML Building Footprints** — https://github.com/microsoft/GlobalMLBuildingFootprints
 
-- [ ] **Bing Maps Global Building Footprints** — https://blogs.bing.com/maps/2023-06/Bing-Maps-Global-Building-Footprints-released (may overlap with Microsoft dataset above — check)
+- [x] **Bing Maps Global Building Footprints** — https://blogs.bing.com/maps/2023-06/Bing-Maps-Global-Building-Footprints-released (may overlap with Microsoft dataset above — check)
 
 - [x] **Ecobee Building Data (LBNL)** — https://bbd.labworks.org/ds/bbd/ecobee
 
