@@ -1,5 +1,17 @@
 [
   {
+    "name": "AfrPowerOS",
+    "description": "Open, evidence-first dataset tracking every African country's civilian nuclear-energy programme, covering programme phase, IAEA milestone status, regulator, implementing agency, planned capacity, vendors, agreements, research reactors, and key events for 20 countries, with every record carrying a confidence label (Verified, Inference, Speculation, Unverified) and source URLs, published under CC BY 4.0.",
+    "data_type": ["metadata", "tabular"],
+    "energy_sector": ["nuclear"],
+    "format": ["json"],
+    "coverage": ["continental"],
+    "links": {
+      "url": "https://kawacukennedy.github.io/afrpoweros/",
+      "code": "https://github.com/kawacukennedy/afrpoweros"
+    }
+  },
+  {
     "name": "BARRA2 (Australian Weather Reanalysis)",
     "description": "High-resolution regional atmospheric reanalysis dataset for Australia and surrounding regions produced by the Bureau of Meteorology, providing hourly and sub-hourly gridded fields of wind speed, temperature, humidity, pressure, radiation, and precipitation at ~12 km resolution (with ~1.5 km nested domains for select areas) from 1979 to present, hosted on the NCI THREDDS server.",
     "data_type": ["geospatial", "timeseries"],
