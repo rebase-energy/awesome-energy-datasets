@@ -98,6 +98,19 @@
     }
   },
   {
+    "name": "DC Hub (Data Center Power Index)",
+    "description": "DC Hub is the live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power, across 300+ markets. It also carries live grid feeds from the seven US ISOs (PJM, ERCOT, CAISO, MISO, SPP, NYISO, ISO-NE) and retail and wholesale electricity prices by state and ISO, with an as-of timestamp and citation line on every answer. Available as a REST API and as a remote MCP server for AI agents; data licensed CC-BY-4.0.",
+    "data_type": ["geospatial", "tabular", "timeseries"],
+    "energy_sector": ["grid", "price"],
+    "format": ["api", "json"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://dchub.cloud",
+      "api": "https://dchub.cloud/api/v1",
+      "code": "https://github.com/azmartone67/dchub-mcp-server"
+    }
+  },
+  {
     "name": "Demand.ninja",
     "description": "Daily temperature, heating degree days, and cooling degree days data spanning 1980-2022 for modelling heating and cooling energy demand in buildings at global scale.",
     "data_type": ["timeseries"],
