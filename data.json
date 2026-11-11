@@ -169,6 +169,18 @@
     }
   },
   {
+    "name": "Energy Incident Register",
+    "description": "Index of 2,386 reported energy incidents (battery storage, solar, wind, grid and data centre fires, failures and outages) in 103 countries, one row per incident with technology, severity, year, month, country and a link to the incident page, published as CSV and JSON and rebuilt on every update, plus a file of incident counts by technology, country, year, category and severity under CC BY 4.0 archived on Zenodo.",
+    "data_type": ["tabular"],
+    "energy_sector": ["battery", "grid", "solar", "wind"],
+    "format": ["csv", "json"],
+    "coverage": ["global"],
+    "links": {
+      "url": "https://energyincidentregister.com/data/",
+      "docs": "https://doi.org/10.5281/zenodo.23299419"
+    }
+  },
+  {
     "name": "EnergyData.dk (Denmark)",
     "description": "Danish energy data hub operated by DTU providing real-time and historical datasets including smart meter electricity consumption, district heating supply, transformer station power measurements, building automation data, city battery operations, EV charging station data, weather station observations and forecasts, and CO₂ emissions from Danish electricity production, primarily covering Copenhagen's Nordhavn district and Bornholm island.",
     "data_type": ["timeseries"],
